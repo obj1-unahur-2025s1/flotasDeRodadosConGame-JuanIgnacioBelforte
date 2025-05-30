@@ -106,4 +106,3 @@ object colores {
   method validos() = #{"Rojo", "Azul", "Beige", "Negro", "Blanco", "Verde"}
 }
 
-// Etapa 2
